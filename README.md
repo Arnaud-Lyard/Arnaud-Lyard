@@ -6,3 +6,5 @@
 - :gear: I also use and work ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/aws.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-Lyard)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-Lyard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
