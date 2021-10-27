@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/main/Animation.gif)
+![Cover](https://raw.githubusercontent.com/Arnaud-Lyard/Arnaud-Lyard/main/Animation.gif)
 <!--
 **Arnaud-Lyard/Arnaud-Lyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
