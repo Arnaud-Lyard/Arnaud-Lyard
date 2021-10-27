@@ -2,9 +2,9 @@
 
 - 
 -  I’m currently working on Worklife
-- :rocket: I use daily: ![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+- :rocket: I use daily:
 - :desktop_computer: I work using
-- :gear: I also use and work 
+- :gear: I also use and work ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/aws.svg)
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
