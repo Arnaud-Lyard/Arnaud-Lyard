@@ -5,3 +5,4 @@
 - :desktop_computer: I work using ![cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/javascript.svg) ![cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/git.svg) ![cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/github.svg)
 - :gear: I also use and work ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/aws.svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-Lyard)](https://github.com/anuraghazra/github-readme-stats)
