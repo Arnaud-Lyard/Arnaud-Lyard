@@ -10,7 +10,7 @@ I'm a french based full stack developper, I'm passionate about web development a
 - I also use and work: ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/ReactJS.svg) ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Wordpress.svg) ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Prisma.svg) ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Jest.svg) ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Codewars.svg) ![Cover](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Aws.svg)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arnaudlyard.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-lyard/)
 
 
