@@ -1,5 +1,3 @@
-[![Cover](https://raw.githubusercontent.com/Arnaud-Lyard/Arnaud-Lyard/main/img/Animation.gif)](https://prochainweb.com)
-
 ## 🚀 About Me
 I'm a french based full stack developper, I'm passionate about web development and I'm always looking for new challenges.
 
