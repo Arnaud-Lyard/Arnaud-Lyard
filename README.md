@@ -12,6 +12,8 @@ I'm a french based full stack developper, I'm passionate about web development a
 [![NodeJS](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/NodeJS.svg)](https://nodejs.org/docs/latest/api/)
 [![PostgreSQL](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Postgresql.svg)](https://www.postgresql.org/docs/)
 [![GraphQL](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Graphql.svg)](https://graphql.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](https://symfony.com/)
 - IT tools used: [![Ubuntu](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Ubuntu.svg)](https://doc.ubuntu-fr.org/)
 [![Docker](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Docker.svg)](https://docs.docker.com/)
 [![Visual Studio Code](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Visual-studio-code.svg)](https://code.visualstudio.com/)
