@@ -12,9 +12,19 @@ I'm a french based full stack developper, I'm passionate about web development a
 [![NodeJS](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/NodeJS.svg)](https://nodejs.org/docs/latest/api/)
 [![PostgreSQL](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Postgresql.svg)](https://www.postgresql.org/docs/)
 [![GraphQL](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Graphql.svg)](https://graphql.org/)
+- IT tools used: [![Ubuntu](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Ubuntu.svg)](https://doc.ubuntu-fr.org/)
+[![Docker](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Docker.svg)](https://docs.docker.com/)
+[![Visual Studio Code](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Visual-studio-code.svg)](https://code.visualstudio.com/)
+[![Notion](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Notion.svg)](https://www.notion.so/)
+[![Miro](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Miro.svg)](https://miro.com/)
+[![Figma](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Figma.svg)](https://www.figma.com/)
+- I also use and work: [![ReactJS](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/ReactJS.svg)](https://fr.react.dev/)
+[![Wordpress](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Wordpress.svg)](https://wordpress.org/)
+[![Prisma](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Prisma.svg)](https://www.prisma.io/)
+[![Jest](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Jest.svg)](https://jestjs.io/)
+[![Codewars](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Codewars.svg)](https://www.codewars.com/users/Arnaud-Lyard)
+[![AWS](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Aws.svg)](https://aws.amazon.com/)
 
-- IT tools used: ![[cover](https://doc.ubuntu-fr.org/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Ubuntu.svg) ![[cover](https://docs.docker.com/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Docker.svg) ![[cover](https://code.visualstudio.com/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Visual-studio-code.svg) ![[cover](https://www.notion.so/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Notion.svg) ![[cover](https://miro.com/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Miro.svg) ![[cover](https://www.figma.com/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Figma.svg)
-- I also use and work: ![[Cover](https://fr.react.dev/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/ReactJS.svg) ![[Cover](https://wordpress.org/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Wordpress.svg) ![[Cover](https://www.prisma.io/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Prisma.svg) ![[Cover](https://jestjs.io/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Jest.svg) ![[Cover](https://www.codewars.com/users/Arnaud-Lyard)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Codewars.svg) ![[Cover](https://aws.amazon.com/)](https://github.com/Arnaud-Lyard/Arnaud-Lyard/blob/main/img/Aws.svg)
 
 ## 🔗 Links
 [![Prochainweb](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prochainweb.com)
